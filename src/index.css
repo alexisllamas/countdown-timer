@@ -65,4 +65,8 @@ h1{
     height: 35px;
     width: 35px;
   }
+
+  .smalltext {
+    margin-left: -5px;
+  }
 }

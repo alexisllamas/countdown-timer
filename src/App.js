@@ -62,8 +62,10 @@ class App extends Component {
             <div className="smalltext">Days</div>
           </div>
           <div className="time-square">
+          <div>
             <span className="hours">{hours}</span>
             <div className="smalltext">Hours</div>
+            </div>
           </div>
           <div className="time-square">
             <span className="minutes">{minutes}</span>
